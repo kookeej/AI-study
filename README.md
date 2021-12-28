@@ -6,7 +6,6 @@
 ### [Machine Learning](#Machine-Learning)
 > * [Ensemble](#Ensemble)
 > * [LGBM](#LGBM)
-> * [Boosting](#Boosting)
 
 ### [Deep Learning](#Deep-Learning)
 > * [Backbone Network](#Backbone-Network)
